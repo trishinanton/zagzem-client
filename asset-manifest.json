@@ -9,8 +9,8 @@
     "static/js/3.fa6c2e05.chunk.js": "/zagzem-client/static/js/3.fa6c2e05.chunk.js",
     "static/js/3.fa6c2e05.chunk.js.map": "/zagzem-client/static/js/3.fa6c2e05.chunk.js.map",
     "main.css": "/zagzem-client/static/css/main.d6cc251a.chunk.css",
-    "main.js": "/zagzem-client/static/js/main.2bcaffa4.chunk.js",
-    "main.js.map": "/zagzem-client/static/js/main.2bcaffa4.chunk.js.map",
+    "main.js": "/zagzem-client/static/js/main.af2d9772.chunk.js",
+    "main.js.map": "/zagzem-client/static/js/main.af2d9772.chunk.js.map",
     "runtime-main.js": "/zagzem-client/static/js/runtime-main.7cec346d.js",
     "runtime-main.js.map": "/zagzem-client/static/js/runtime-main.7cec346d.js.map",
     "static/js/6.1b9ce5c3.chunk.js": "/zagzem-client/static/js/6.1b9ce5c3.chunk.js",
@@ -69,6 +69,6 @@
     "static/js/runtime-main.7cec346d.js",
     "static/js/6.1b9ce5c3.chunk.js",
     "static/css/main.d6cc251a.chunk.css",
-    "static/js/main.2bcaffa4.chunk.js"
+    "static/js/main.af2d9772.chunk.js"
   ]
 }
