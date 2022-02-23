@@ -11,9 +11,9 @@ const staticCacheName = 's-app-v1'
 const dynamicCacheName = 'd-app-v1'
 
 const assetUrls = [
-    '/index.html',
-    '/static',
-    '/index.js'
+    '%PUBLIC_URL%/index.html',
+    '%PUBLIC_URL%/static',
+    '%PUBLIC_URL%/index.js'
 ]
 
 self.addEventListener('install', async event => {
